@@ -31,3 +31,5 @@ Describe any challenges encountered while building the app.
 I spend hours trying to get outputs onto my console as the video walkthrough was able to do. My TA was able to figure out the problem for me after taking an hour looking at my project.
 
 I was unable to use the exact instructions from the video walkthrough during the section with the Cocoa Pods, I spent about an hour looking through the community forum and discovered that I needed to enter a specific version of the AlamofireImage in my pod file for it to work.
+
+Getting the gif to be active on the ReadMe.md is troublesome for me. Just like my calculator tip app, i used licecap because RecordIt will not work for my laptop for what ever reason. 
