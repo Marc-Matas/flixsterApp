@@ -14,6 +14,7 @@
 
 ### App Walkthough GIF
 
+https://i.imgur.com/hiBgWvx.gifv
 
 <img src="https://i.imgur.com/gbuwPzG.gifv" width=250><br>
 
@@ -22,11 +23,8 @@
 ### Notes
 Describe any challenges encountered while building the app.
 
-The navigation bar back button defaulted to a white color, was able to fix the problem through the forums.
-
-Other than that Didn't run into much challenges this time around, most problems I ran into, I was able to fix it within 30 minutes.
-
-
+Still unable to get a working gif onto github Readme.md file
+The navigation bar back button defaulted to a white color, was able to fix the problem through the discussion forums.
 
 
 
