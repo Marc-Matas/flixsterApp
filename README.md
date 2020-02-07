@@ -16,7 +16,7 @@
 
 https://i.imgur.com/hiBgWvx.gifv
 
-<img src="https://i.imgur.com/gbuwPzG.gifv" width=250><br>
+<img src="https://imgur.com/hiBgWvx" width=250><br>
 
 <img src="https://i.imgur.com/kyYIB9D.gif" width=250><br>
 
