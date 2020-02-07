@@ -1,7 +1,5 @@
 # flixsterApp
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
-
 ## Flix Part 2
 
 ### User Stories
@@ -17,7 +15,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://i.imgur.com/zeZqHHM.gifv" width=250><br>
+<img src="https://i.imgur.com/gbuwPzG.gifv" width=250><br>
 
 <img src="https://i.imgur.com/kyYIB9D.gif" width=250><br>
 
