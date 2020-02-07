@@ -20,6 +20,8 @@ https://i.imgur.com/WVg7iGF.gifv
 
 <img src="https://i.imgur.com/WVg7iGF.gifv" width=250><br>
 
+<img src="https://i.imgur.com/kyYIB9D.gif" width=250><br>
+
 ### Notes
 Describe any challenges encountered while building the app.
 
