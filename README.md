@@ -24,10 +24,8 @@ https://i.imgur.com/hiBgWvx.gifv
 Describe any challenges encountered while building the app.
 
 Still unable to get a working gif onto github Readme.md file
+
 The navigation bar back button defaulted to a white color, was able to fix the problem through the discussion forums.
-
-
-
 
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
