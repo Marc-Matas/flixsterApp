@@ -14,15 +14,13 @@
 
 ### App Walkthough GIF
 
-https://i.imgur.com/hiBgWvx.gifv
-
 <img src='https://imgur.com/hiBgWvx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-Still unable to get a working gif onto github Readme.md file
+Still unable to get a working gif onto github Readme.md file -> figuered out the problem
 
 The navigation bar back button defaulted to a white color, was able to fix the problem through the discussion forums.
 
@@ -51,6 +49,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `https://i.imgur.com/KrnjPw7.gifv`. Make sure the gif actually renders and animates when viewing this README. 
 
 <img src="https://i.imgur.com/KrnjPw7.gifv" width=250><br>
+
+<img src='https://i.imgur.com/KrnjPw7.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://i.imgur.com/KrnjPw7.gifv
 
