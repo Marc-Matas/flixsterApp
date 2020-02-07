@@ -16,9 +16,8 @@
 
 https://i.imgur.com/hiBgWvx.gifv
 
-<img src="https://imgur.com/hiBgWvx" width=250><br>
+<img src='https://imgur.com/hiBgWvx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src="https://i.imgur.com/kyYIB9D.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
